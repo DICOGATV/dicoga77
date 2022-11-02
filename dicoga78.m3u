@@ -1,15 +1,167 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal Rising (2007)" tvg-logo="https://unsoloclic.info/wp-content/uploads/2022/10/6323_front.jpg" group-title="PELICULAS",Hannibal Rising (2007)
-https://sv2.filesusc.com/dd4/4d59a736318159a7a51d9ece364f0da5.mp4?md5=FvTqaJ8kEWb_PvSzwK1iDg&expires=1666685417
-#EXTINF:-1 tvg-id="" tvg-name="Vigil (2021) Serie de TV Primera" tvg-logo="https://unsoloclic.info/wp-content/uploads/2021/09/MV5BNTc2MzdiYmItZWUxMi00NjlhLThhZWMtYTQ0YTQwZTM3MmZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX675_.jpg" group-title="peliculas",Vigil (2021)
-https://sv2.filesusc.com/dd3/55a1aa30fe81847370ea7faedc625ce2.mp4?md5=D1drLBUc8AQ5wfhOLyyTKg&expires=1632228358
-#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E01" tvg-logo="http://23.237.88.144:80/images/e480194a0ec936d278708de8cf70d88e.jpg" group-title="Netflix",Sky Rojo S01 E01
-https://sv2.filesusc.com/dd4/f3a9e472248d2f4140b508eae89d64d7.mp4?md5=Xb72gAvJTy-9gkSEPX8X5Q&expires=1632228937
-#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E02" tvg-logo="http://23.237.88.144:80/images/df52462e250b5426b879c4ee28c7cd24.jpg" group-title="Netflix",Sky Rojo S01 E02
-http://tv.lklix.com:8080/series/PILAS/PilaS/
-#EXTINF:-1 tvg-id="A3Bikini.us" tvg-logo="https://i.imgur.com/IBfTNOr.png" group-title="XXX" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",A3Bikini (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 xui-id="6756" tvg-id="" tvg-name="ADULTOS HD | ALBA" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS HD",ADULTOS HD | ALBA
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52rz0uOBHLb35Oysq5Ty75GgE/ts
+#EXTINF:-1 xui-id="6746" tvg-id="" tvg-name="ADULTOS HD | BRAZZERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorcel-2022.svg/2560px-Dorcel-2022.svg.png" group-title="ADULTOS HD",ADULTOS HD | BRAZZERS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r01hIW1KNdClXenH6SN1eXk/ts
+#EXTINF:-1 xui-id="6749" tvg-id="" tvg-name="ADULTOS HD | DREAM" tvg-logo="http://invivo.tv/invivo/images/slider/xy_plus.png" group-title="ADULTOS HD",ADULTOS HD | DREAM
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r2rEB8X7B2J9bM4Ki5hx9Qo/ts
+#EXTINF:-1 xui-id="6872" tvg-id="" tvg-name="ADULTOS HD | HARDCORE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS HD",ADULTOS HD | HARDCORE
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9nSRMxG6Bg755pFgUbjspg/ts
+#EXTINF:-1 xui-id="6758" tvg-id="BlueHustler.gr" tvg-name="ADULTOS HD | HUSTLER" tvg-logo="https://static.epg.best/gr/BlueHustler.gr.png" group-title="ADULTOS HD",ADULTOS HD | HUSTLER
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r-Qsgd-1OxWL10o8MZappJY/ts
+#EXTINF:-1 xui-id="6751" tvg-id="PenthouseGold.us" tvg-name="ADULTOS HD | PENTHOUSE GOLD" tvg-logo="https://static.epg.best/us/PenthouseGold.us.png" group-title="ADULTOS HD",ADULTOS HD | PENTHOUSE GOLD
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52rwyF85jr03htAviY7Q42XL4/ts
+#EXTINF:-1 xui-id="6759" tvg-id="Playboy.ar" tvg-name="ADULTOS HD | PLAYBOY" tvg-logo="https://static.epg.best/ar/Playboy.ar.png" group-title="ADULTOS HD",ADULTOS HD | PLAYBOY
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r-3mjSM-SyVVSgQn6aNdVn8/ts
+#EXTINF:-1 xui-id="6757" tvg-id="" tvg-name="ADULTOS HD | PRIVATE TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/private-tv-logo.png" group-title="ADULTOS HD",ADULTOS HD | PRIVATE TV
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r2B-lvPtihuJ8KnoMoo3Sj8/ts
+#EXTINF:-1 xui-id="6747" tvg-id="" tvg-name="ADULTOS HD | REDLIGHT" tvg-logo="https://www.logolynx.com/images/logolynx/c1/c10e4f2c5335ab2892e9ca45a3ca804f.png" group-title="ADULTOS HD",ADULTOS HD | REDLIGHT
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r7ssP6G3wenS743iUZiatko/ts
+#EXTINF:-1 xui-id="6744" tvg-id="PenthouseQuickies.us" tvg-name="ADULTOS HD | SEXTREME" tvg-logo="http://fanc.tmsimg.com/assets/s72143_ll_h3_aa.png" group-title="ADULTOS HD",ADULTOS HD | SEXTREME
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r6JsxbkkAsw6vwfM1mPkIbI/ts
+#EXTINF:-1 xui-id="87776" tvg-id="Venus.ar" tvg-name="ADULTOS HD | VENUS" tvg-logo="https://static.epg.best/ar/Venus.ar.png" group-title="ADULTOS HD",ADULTOS HD | VENUS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r1kmB22rVn-MuviGyV8J4ms5NLRFb7WY7AeqEtF9_0Yh/ts
+#EXTINF:-1 xui-id="6748" tvg-id="Venus.ar" tvg-name="ADULTOS HD | VENUS" tvg-logo="https://static.epg.best/ar/Venus.ar.png" group-title="ADULTOS HD",ADULTOS HD | VENUS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r57oinjajNWH1NxJ5tqsGa8/ts
+#EXTINF:-1 xui-id="100797" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV ANAL" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV ANAL
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r22OU7OycGeXuD2WoWLjWtpUKCY8QlmA8M45nNaqN0oA/ts
+#EXTINF:-1 xui-id="100798" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV BIG ASS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV BIG ASS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r22OU7OycGeXuD2WoWLjWtpnolUb0uzQRxqnwKBwN8Vc/ts
+#EXTINF:-1 xui-id="100799" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV BIG DICK" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV BIG DICK
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r22OU7OycGeXuD2WoWLjWtqYdqE5T1_7G2P2CuG9SgNF/ts
+#EXTINF:-1 xui-id="100800" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV BIG TITS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV BIG TITS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_nX9RFXmE7UE6Smq3yUvJps/ts
+#EXTINF:-1 xui-id="100801" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV BLONDE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV BLONDE
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_k6K9aBZZWV3DDzoEvOrati/ts
+#EXTINF:-1 xui-id="100802" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV BLOWJOB" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV BLOWJOB
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_ljUYSQ7ryPB7KrXTe1cdYf/ts
+#EXTINF:-1 xui-id="100803" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV BRUNETTE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV BRUNETTE
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_mEznDP0r6lKr9mi_p9f53l/ts
+#EXTINF:-1 xui-id="100804" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV COMPILATION" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV COMPILATION
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_mUGs62jzgq_GQYLQD-MJBn/ts
+#EXTINF:-1 xui-id="100805" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV CUCKOLD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV CUCKOLD
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_nNB-9THxOyfXiSNWkLcGFK/ts
+#EXTINF:-1 xui-id="100806" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV FETISH" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV FETISH
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_kL65yK_WoHu5ota5PGrvJp/ts
+#EXTINF:-1 xui-id="100807" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV GANGBAND" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV GANGBAND
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_kNH2GOhbIiRBEMwgAP0149/ts
+#EXTINF:-1 xui-id="100808" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV GAY" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV GAY
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_lKT8LAEOrMVTO62qCjt3m8/ts
+#EXTINF:-1 xui-id="100809" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV HARDCORE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV HARDCORE
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r9sAQZ2HWv5iyoSoVQ-b9_nX1IxCxeRRJNWQz0yyCyV8/ts
+#EXTINF:-1 xui-id="100810" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV INTERRACIAL" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV INTERRACIAL
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VvHqYmUe32FmVzlzVuAkktp/ts
+#EXTINF:-1 xui-id="100811" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV LATINA" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV LATINA
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VtzR8mMOxvyiRI4j5CRZOB9/ts
+#EXTINF:-1 xui-id="100812" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV LESBIAN" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV LESBIAN
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4Vv0NJp4IUiOuaQ3_EvghAve/ts
+#EXTINF:-1 xui-id="100813" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV LIVE CAMS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV LIVE CAMS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VtBMT3I2wydM9XehXJnQk1F/ts
+#EXTINF:-1 xui-id="100814" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV MILF" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV MILF
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VtIlKOarhD6BkfUOhM_S0-n/ts
+#EXTINF:-1 xui-id="100815" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV PORNSTAR" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV PORNSTAR
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VsahRBm-yfZ3-rvhN0PTD6g/ts
+#EXTINF:-1 xui-id="100816" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV POV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV POV
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4Vu1QSV1SEP9g-xhI9M2KKFh/ts
+#EXTINF:-1 xui-id="100817" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV ROUGH" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV ROUGH
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VvUx5ciWGsg5WcVkp4y7xsg/ts
+#EXTINF:-1 xui-id="100818" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV RUSIA" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV RUSIA
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VtLrwp_0UacoESZYUD0YvjC/ts
+#EXTINF:-1 xui-id="100819" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV TEEN" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV TEEN
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r5cNRkdwZrevLwRF8ukO4VvR0GfvFVSwpi6IHPa_yX5Z/ts
+#EXTINF:-1 xui-id="100820" tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV THREESOME" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ADULT IPTV THREESOME
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52rw_GaLuv8c4gbcTxXw8oM3r7zmrcIkeCiuj0yOepJQzY/ts
+#EXTINF:-1 xui-id="100821" tvg-id="" tvg-name="ADULTOS LOCAL | AST 2" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | AST 2
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52rw_GaLuv8c4gbcTxXw8oM3osZyjiCM05YsUyO0CtUbEy/ts
+#EXTINF:-1 xui-id="100822" tvg-id="" tvg-name="ADULTOS LOCAL | ASTV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | ASTV
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52rw_GaLuv8c4gbcTxXw8oM3q3xSSq9qFrLvWfbt4ak5tl/ts
+#EXTINF:-1 xui-id="100793" tvg-id="" tvg-name="ADULTOS LOCAL | BABE STATION 24" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | BABE STATION 24
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r22OU7OycGeXuD2WoWLjWtpov05UVNvXlTg_3lIiaKF-/ts
+#EXTINF:-1 xui-id="100794" tvg-id="" tvg-name="ADULTOS LOCAL | VISIT X TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | VISIT X TV
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r22OU7OycGeXuD2WoWLjWto4-1equ7OdAeNAb5kcErtT/ts
+#EXTINF:-1 xui-id="100795" tvg-id="" tvg-name="ADULTOS LOCAL | VISIT X TV HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | VISIT X TV HD
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52r22OU7OycGeXuD2WoWLjWtotzLbfEJLjjpJbeSutt6_8/ts
+#EXTINF:-1 xui-id="6745" tvg-id="" tvg-name="ADULTOS LOCAL | XY PLUS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTOS LOCAL",ADULTOS LOCAL | XY PLUS
+http://stalkertvlatinopanel.com:8080/play/8LeEU1_D5lNf5Fu3yz52rwhRzsRiB9gvFMKA07FxB94/ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX LATINA" tvg-logo="https://adamgoodchoice.com/wp-content/uploads/2017/02/amsterdam-xxx-vector-logo-e1486068068982.png" group-title="◄◄ ADULTOS +18 ►►",XXX LATINA
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65492
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://adamgoodchoice.com/wp-content/uploads/2017/02/amsterdam-xxx-vector-logo-e1486068068982.png" group-title="◄◄ ADULTOS +18 ►►",VENUS
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65491
+#EXTINF:-1 tvg-id="" tvg-name="XXX MIA KHALIFA" tvg-logo="https://adamgoodchoice.com/wp-content/uploads/2017/02/amsterdam-xxx-vector-logo-e1486068068982.png" group-title="◄◄ ADULTOS +18 ►►",XXX MIA KHALIFA
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65493
+#EXTINF:-1 tvg-id="" tvg-name="XXX SEXMEX" tvg-logo="http://tvstarlife.com:25461/images/25cb13d3385d1b3e69fe842aa560a653.png" group-title="◄◄ ADULTOS +18 ►►",XXX SEXMEX
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65496
+#EXTINF:-1 tvg-id="" tvg-name="XXX |Threesome" tvg-logo="http://relaxplease.xyz:8080/images/8c0f44f10cdff1067e421f0c3e01cf63.png" group-title="◄◄ ADULTOS +18 ►►",XXX |Threesome
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65499
+#EXTINF:-1 tvg-id="" tvg-name="XXX |Teen" tvg-logo="http://24horas.fun:1391//images/8c0f44f10cdff1067e421f0c3e01cf63.png" group-title="◄◄ ADULTOS +18 ►►",XXX |Teen
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65500
+#EXTINF:-1 tvg-id="" tvg-name="XXX |Russian" tvg-logo="http://relaxplease.xyz:8080/images/8c0f44f10cdff1067e421f0c3e01cf63.png" group-title="◄◄ ADULTOS +18 ►►",XXX |Russian
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65501
+#EXTINF:-1 tvg-id="" tvg-name="XXX |Pornstar" tvg-logo="" group-title="◄◄ ADULTOS +18 ►►",XXX |Pornstar
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65502
+#EXTINF:-1 tvg-id="" tvg-name="XXX |POV" tvg-logo="http://relaxplease.xyz:8080/images/8c0f44f10cdff1067e421f0c3e01cf63.png" group-title="◄◄ ADULTOS +18 ►►",XXX |POV
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65505
+#EXTINF:-1 tvg-id="" tvg-name="XXX |Lesbian" tvg-logo="http://relaxplease.xyz:8080/images/8c0f44f10cdff1067e421f0c3e01cf63.png" group-title="◄◄ ADULTOS +18 ►►",XXX |Lesbian
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/65508
+#EXTINF:-1 tvg-id="" tvg-name="MX: Playboy Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/1200px-Play_Boy_TV_logo.svg.png" group-title="◄◄ ADULTOS +18 ►►",MX: Playboy Latino
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/76799
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY LATINO" tvg-logo="http://boxdigital.xyz:8080/images/e7619a78bcebef5f90885558a0f0cc99.png" group-title="◄◄ ADULTOS +18 ►►",XXX - PLAYBOY LATINO
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/203349
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY TV" tvg-logo="http://boxdigital.xyz:8080/images/9b7f42759735080d12671c617bd10df8.png" group-title="◄◄ ADULTOS +18 ►►",XXX - PLAYBOY TV
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262088
+#EXTINF:-1 tvg-id="" tvg-name="XXX - BRAZZERS TV" tvg-logo="https://rafaelsatellites.com/img/upload/brazz.png" group-title="◄◄ ADULTOS +18 ►►",XXX - BRAZZERS TV
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262089
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE" tvg-logo="http://boxdigital.xyz:8080/images/56cf60338684cb559c793a3f7be8670c.png" group-title="◄◄ ADULTOS +18 ►►",XXX - PENTHOUSE
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262090
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER" tvg-logo="http://boxdigital.xyz:8080/images/f3cd8c22e3d47bbff8b348b7f26a9d9b.png" group-title="◄◄ ADULTOS +18 ►►",XXX - HUSTLER
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262091
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER BLUE" tvg-logo="http://boxdigital.xyz:8080/images/aafb1ce4fed408a5843cf431a0bbdcb1.jpg" group-title="◄◄ ADULTOS +18 ►►",XXX - HUSTLER BLUE
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262092
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXTREME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" group-title="◄◄ ADULTOS +18 ►►",XXX - SEXTREME
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262093
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PRIVATE" tvg-logo="http://boxdigital.xyz:8080/images/6eb8e24063f5be3bc6bb84e4bc9f3324.png" group-title="◄◄ ADULTOS +18 ►►",XXX - PRIVATE
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262094
+#EXTINF:-1 tvg-id="" tvg-name="XXX - FAKE TAXI" tvg-logo="http://boxdigital.xyz:8080/images/1f104b2e0838d6c13d6dd5adca2e524a.png" group-title="◄◄ ADULTOS +18 ►►",XXX - FAKE TAXI
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262095
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] Bang Bros HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Bang-Bros-Logo.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] Bang Bros HD
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262096
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] Bigass 2" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] Bigass 2
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262097
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] bigtits" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] bigtits
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262098
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] BLACK RAW" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] BLACK RAW
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262099
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] blowjob HD" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] blowjob HD
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262100
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] EVIL ENGEL HD" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] EVIL ENGEL HD
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262101
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] Fetich 2" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] Fetich 2
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262102
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] FUCK TOOLS HD" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] FUCK TOOLS HD
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262103
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] JASMINE JAE" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] JASMINE JAE
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262104
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] LATINA X2" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] LATINA X2
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262105
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] MILF 2" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] MILF 2
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262106
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] MOFOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] MOFOS
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262107
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] PENTHOUSE HD" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] PENTHOUSE HD
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262108
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] PRIVATE HD" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] PRIVATE HD
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262109
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] RealExtreme" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] RealExtreme
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262110
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] Shemale 1" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] Shemale 1
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262111
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] Shemale 2" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] Shemale 2
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262112
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] TEN" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] TEN
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262113
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] TUSHY RAW" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] TUSHY RAW
+http://777back.xyz:8080/FUXIPTV1977/WkZtwqKEU5Be/262114
+#EXTINF:-1 tvg-id="" tvg-name="[XXX] VIXEN" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" group-title="◄◄ ADULTOS +18 ►►",[XXX] VIXEN
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
