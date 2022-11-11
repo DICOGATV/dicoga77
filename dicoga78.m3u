@@ -113,9 +113,7 @@ http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
 http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 tvg-id="XYPlus.uk" tvg-logo="https://i.imgur.com/0Jd6bLl.png" group-title="XXX",XY Plus
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
-=======
 
-#EXTM3U
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bally Sports Ohio" tvg-logo="" group-title="⭐VIP ESTADOS UNIDOS",Bally Sports Ohio
