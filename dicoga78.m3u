@@ -110,9 +110,12 @@ https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="*HBO- HD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="⭐VIP CANALES HD ",*HBO- HD
+http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/207761
+#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="STAR CHANEL HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="⭐VIP CANALES HD ",STAR CHANEL HD
+http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/155958
+#EXTINF:-1 tvg-id="américatv.ar" tvg-name="HISTORY CHANNEL HD*" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="⭐VIP CANALES HD ",HISTORY CHANNEL HD*
+http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/73966
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="SEXFLIX GRATIS",Fuxiptv.com Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="SEXFLIX GRATIS",Fuxiptv.com Asian (720p)
@@ -1205,8 +1208,7 @@ http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/28593
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/28545
 #EXTINF:-1 tvg-id="" tvg-name="GUA | RETRO TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s4bb9a704d6266b45/image/ic9a330cf91ed0d71/version/1541419672/image.png" group-title="⭐VIP GUATEMALA",GUA | RETRO TV
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/28503
-#EXTINF:-1 tvg-id="américatv.ar" tvg-name="HISTORY CHANNEL HD*" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="⭐VIP CANALES HD ",HISTORY CHANNEL HD*
-http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/73966
+
 #EXTINF:-1 tvg-id="américatv.ar" tvg-name="HOLA TV HD | ENT_LAT" tvg-logo="https://logo.iptveditor.com/holatvlat.png" group-title="⭐VIP ENTRETENIMIENTO",HOLA TV HD | ENT_LAT
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/72919
 #EXTINF:-1 tvg-id="américatv.ar" tvg-name="HOLA! TV" tvg-logo="https://logo.iptveditor.com/holatv.png" group-title="⭐VIP ENTRETENIMIENTO",HOLA! TV
@@ -1817,8 +1819,7 @@ http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/132105
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/99562
 #EXTINF:-1 tvg-id="américatv.ar" tvg-name="CR | VM LATINO (Prueba)" tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="⭐VIP COSTA RICA",CR | VM LATINO (Prueba)
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/140593
-#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="STAR CHANEL HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="⭐VIP CANALES HD ",STAR CHANEL HD
-http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/155958
+
 #EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="⭐VIP INFANTIL",DISNEY CHANNEL
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/156174
 #EXTINF:-1 tvg-id="cineacción.pluto" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="⭐VIP PLUTOTV",Pluto TV Cine Acción
@@ -13632,8 +13633,7 @@ http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/207756
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/207757
 #EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="GOLDEN PREMIERE- HD" tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="⭐VIP CANALES HD ",GOLDEN PREMIERE- HD
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/207759
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="*HBO- HD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="⭐VIP CANALES HD ",*HBO- HD
-http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/207761
+
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2- HD" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="⭐VIP CANALES HD ",HBO 2- HD
 http://777back.xyz:8080/FUXIPTVD3MO/WkZtwqKEU5Be/207762
 #EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI HD" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="⭐VIP CANALES HD ",HBO MUNDI HD
